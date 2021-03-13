@@ -1,13 +1,33 @@
 package com.mycompany.app;
 
-/**
- * Hello world!
- *
- */
+import java.lang.*;
+import java.util.*;
+
 public class App 
 {
     public static void main( String[] args )
     {
-        System.out.println( "This is the scientific calculator" );
+        Scanner scanner = new Scanner(System.in);
+        double n1, n2;
+        do{
+            System.out.println("-------SCIENTIFIC CALCULATOR-------");
+            System.out.println("MENU--");
+            System.out.println("Press 1 to calculate SQUARE ROOT");
+
+            int option;
+            option = scanner.nextInt();
+
+            switch(option){
+                case 1:
+                    System.out.print("Enter the number to compute square root of: ");
+                    n1 = scanner.nextDouble();
+                    System.out.println("Square root of " + n1 + " is " + Math.sqrt(n1) + "\n");
+                    break;
+                default:
+                    System.out.println("Quitting the calculator...");
+                    return;
+            }
+        }
+        while(true);
     }
 }
