@@ -1,0 +1,8 @@
+---
+- name: Pull docker Image
+  hosts: localhost
+  tasks:
+    - name: Pull junit devops image
+      docker_image:
+        name: advaitlonkar/scientific-calculator-with-devops
+        source: pull
