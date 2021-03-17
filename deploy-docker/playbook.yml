@@ -1,6 +1,7 @@
 ---
 - name: Pull docker Image
-  hosts: all
+  hosts: local
+  connection: local
   tasks:
     - name: Pull junit devops image
       docker_image:
