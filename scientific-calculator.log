@@ -1,3 +1,21 @@
 17/Mar/2021:20:12:11 444 [App.java] [INFO] com.mycompany.app.App New User!
 17/Mar/2021:20:12:15 467 [App.java] [INFO] com.mycompany.app.App Factorial!
 17/Mar/2021:20:12:15 467 [App.java] [INFO] com.mycompany.app.App New User!
+17/Mar/2021:21:02:20 386 [App.java] [INFO] com.mycompany.app.App New User!
+17/Mar/2021:21:02:24 477 [App.java] [INFO] com.mycompany.app.App Computing square root of 49.0
+17/Mar/2021:21:02:24 477 [App.java] [INFO] com.mycompany.app.App New User!
+17/Mar/2021:21:02:26 632 [App.java] [INFO] com.mycompany.app.App Computing factorial of 5
+17/Mar/2021:21:02:26 633 [App.java] [INFO] com.mycompany.app.App New User!
+17/Mar/2021:21:02:29 278 [App.java] [INFO] com.mycompany.app.App Computing natural Logarithm of 50.0
+17/Mar/2021:21:02:29 279 [App.java] [INFO] com.mycompany.app.App New User!
+17/Mar/2021:21:02:33 128 [App.java] [INFO] com.mycompany.app.App Computing exponent of 5.0 to the power 3.0
+17/Mar/2021:21:02:33 128 [App.java] [INFO] com.mycompany.app.App New User!
+17/Mar/2021:21:08:23 105 [App.java] [INFO] com.mycompany.app.App Computing square root of 49.0
+17/Mar/2021:21:14:13 622 [App.java] [INFO] com.mycompany.app.App Computing factorial of 4
+17/Mar/2021:21:14:13 628 [App.java] [INFO] com.mycompany.app.App Computing square root of 49.0
+17/Mar/2021:21:14:13 628 [App.java] [INFO] com.mycompany.app.App Computing natural Logarithm of 1.0
+17/Mar/2021:21:14:13 629 [App.java] [INFO] com.mycompany.app.App Computing square root of 49.0
+17/Mar/2021:21:14:13 629 [App.java] [INFO] com.mycompany.app.App Computing exponent of 4.0 to the power 3.0
+17/Mar/2021:21:14:13 630 [App.java] [INFO] com.mycompany.app.App Computing natural Logarithm of 5.0
+17/Mar/2021:21:14:13 630 [App.java] [INFO] com.mycompany.app.App Computing factorial of 5
+17/Mar/2021:21:14:13 631 [App.java] [INFO] com.mycompany.app.App Computing exponent of 2.0 to the power 3.0
