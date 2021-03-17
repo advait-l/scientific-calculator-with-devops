@@ -58,6 +58,9 @@ public class App
                     System.out.print("Enter the exponent: ");
                     n2 = scanner.nextDouble();
                     System.out.println("Exponent of " + n1 + " to the power " + n2 + " is " + exp(n1, n2) + "\n");
+                    break;
+
+                // Default Exit
                 default:
                     System.out.println("Quitting the calculator...");
                     return;
@@ -67,10 +70,12 @@ public class App
     }
 
     static double sqrt(double n){
+        logger.info("Computing square root of " + n);
         return Math.sqrt(n);
     }
 
     static int fact(int n){
+        logger.info("Computing factorial of " + n);
         int factorial = 1;
         for(int i = n; i > 0; i--){
             factorial *= i;
@@ -79,10 +84,12 @@ public class App
     }
 
     static double nlog(double n){
+        logger.info("Computing natural Logarithm of " + n);
         return Math.log(n);
     }
 
     static double exp(double n1, double n2){
+        logger.info("Computing exponent of " + n1 + " to the power " + n2);
         return Math.pow(n1, n2);
     }
 }
