@@ -19,3 +19,8 @@
 17/Mar/2021:21:14:13 630 [App.java] [INFO] com.mycompany.app.App Computing natural Logarithm of 5.0
 17/Mar/2021:21:14:13 630 [App.java] [INFO] com.mycompany.app.App Computing factorial of 5
 17/Mar/2021:21:14:13 631 [App.java] [INFO] com.mycompany.app.App Computing exponent of 2.0 to the power 3.0
+17/Mar/2021:21:42:29 259 [App.java] [INFO] com.mycompany.app.App New User!
+17/Mar/2021:21:42:34 831 [App.java] [INFO] com.mycompany.app.App Computing square root of 49.0
+17/Mar/2021:21:42:34 832 [App.java] [INFO] com.mycompany.app.App New User!
+17/Mar/2021:21:42:37 567 [App.java] [INFO] com.mycompany.app.App Computing factorial of 5
+17/Mar/2021:21:42:37 568 [App.java] [INFO] com.mycompany.app.App New User!
